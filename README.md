@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/bouhadi-m3d/bouhadi-m3d/blob/main/download%20(1).jpg)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 # Mohamed BOUHADI
 I'm Mohamed from Morocco, and I write articles on programming. I really enjoy learning languages like C++.
