@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/bouhadi-m3d/bouhadi-m3d/blob/main/download%20(1).jpg)
+![Design and Development](https://github.com/bouhadi-m3d/bouhadi-m3d/blob/main/cover.jpg)
 
 # Mohamed BOUHADI   ![](https://komarev.com/ghpvc/?username=bouhadi-m3d)
 I'm Mohamed from Morocco, and I write articles on programming. I really enjoy learning languages like C++.
