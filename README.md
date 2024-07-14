@@ -7,7 +7,7 @@ I'm Mohamed from Morocco, and I write articles on programming. I really enjoy le
 * 💻 C++
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&theme=tokyonight&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&theme=tokyonight&show_icons=true)   [![GitHub Streak](https://streak-stats.demolab.com/?user=bouhadi-m3d)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
