@@ -1,5 +1,14 @@
-## Hi there 👋
+![I am GitHub Readme Generator's creator](https://x.com/ChrolloM3d/header_photo)
+### Hi there 👋, my name is Mohamed
+#### I am GitHub Readme Generator's creator
 
-I'm Mohamed from Morocco, and I write articles on programming. I really enjoy learning languages like C and C++. You can check out my X at https://x.com/ChrolloM3d
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhadi-m3d)](https://github.com/anuraghazra/github-readme-stats)
+I'm Mohamed from Morocco, and I write articles on programming. I really enjoy learning languages like C and C++.
+
+Skills: C / C++ / HTML / CSS 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
