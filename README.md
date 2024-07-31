@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed BOUHADI</h1>
-<h3 align="center">Coder</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile%20views&color=0e75b6&style=flat" alt="bouhadi-m3d" /> </p>
 
@@ -7,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/chrollom3d" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/chrollom3d?logo=twitter&style=for-the-badge" alt="https://x.com/chrollom3d" /></a> </p>
 
-- 🔭 I’m currently working on **Own portfolio**
-
-- 🌱 I’m currently learning **C++**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
