@@ -1,6 +1,8 @@
+![Design and Development](https://github.com/bouhadi-m3d/bouhadi-m3d/blob/main/download%20(1).jpg)
+
+# Mohamed BOUHADI   ![](https://komarev.com/ghpvc/?username=bouhadi-m3d)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile%20views&color=0e75b6&style=flat" alt="bouhadi-m3d" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouhadi-m3d" alt="bouhadi-m3d" /></a> </p>
 
