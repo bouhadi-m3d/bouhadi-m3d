@@ -3,8 +3,8 @@
 # Mohamed BOUHADI   ![](https://komarev.com/ghpvc/?username=bouhadi-m3d)
 I'm Mohamed from Morocco, and I write articles on programming. I really enjoy learning languages like C++.
 
-## Skills and Experience
-* 💻 C++
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&theme=tokyonight&show_icons=true)   [![GitHub Streak](https://streak-stats.demolab.com/?user=bouhadi-m3d)](https://git.io/streak-stats)
