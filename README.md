@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/bouhadi-m3d/bouhadi-m3d/blob/main/download%20(1).jpg)
-
 # Mohamed BOUHADI   ![](https://komarev.com/ghpvc/?username=bouhadi-m3d)
 
 
