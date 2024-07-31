@@ -6,10 +6,11 @@ I'm Mohamed from Morocco, and I write articles on programming. I really enjoy le
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
-## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&theme=tokyonight&show_icons=true)   [![GitHub Streak](https://streak-stats.demolab.com/?user=bouhadi-m3d)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bouhadi-m3d&limit=5&theme=radical&combine_all_yearly_contributions=true) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bouhadi-m3d&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Socials:
