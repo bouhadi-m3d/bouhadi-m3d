@@ -3,7 +3,7 @@
 # Mohamed BOUHADI   ![](https://komarev.com/ghpvc/?username=bouhadi-m3d)
 I'm Mohamed from Morocco, and I write articles on programming. I really enjoy learning languages like C++.
 
-## Skills and Experience
+## Skills and Experience:
 * 💻 C++
 
 ## My Stats
