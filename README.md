@@ -1,6 +1,8 @@
-
-<h1 align="center">Hi 👋, I'm Mohamed BOUHADI</h1>
+<p align="center">
+  <img src="https://github.com/bouhadi-m3d/bouhadi-m3d/blob/main/2024-08-06-I-m-Mohamed-BOUHADI.gif" alt="Design and Development">
+</p>
 <h3 align="center">A passionate coder from Morocco</h3>
+
 <img width = "400" align = "right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd205bGVoY3JxbzA0MG1oNDVqdjV0bGxxbWM0MDZkODg4Znl4ZHZuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile%20views&color=0e75b6&style=flat" alt="bouhadi-m3d" /> </p>
