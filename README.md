@@ -21,8 +21,13 @@
 <a href="https://stackoverflow.com/users/26265681/chrollo-m3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26265681/chrollo-m3d" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<details open> 
+  <summary><h2>🛠️ Programming Languages & Tools</h2></summary>
+    <p align="center">
+        <br/>
+<img align="center" src="https://skillicons.dev/icons?i=windows,stackoverflow,git,github,vscode,html,css,cpp&perline=8" />
+</p>
+</details>
 
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
@@ -32,6 +37,7 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
     <img align="center" width="400" src="https://streak-stats.demolab.com/?user=bouhadi-m3d&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&ring=FF0000&border=000000&currStreakLabel=FF0000" />
     <br/>
+
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=bouhadi-m3d&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
