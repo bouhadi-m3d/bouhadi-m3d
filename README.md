@@ -39,4 +39,6 @@
     <br/>
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=bouhadi-m3d&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+</p>
 </details>
