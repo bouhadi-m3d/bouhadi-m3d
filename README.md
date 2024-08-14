@@ -41,5 +41,5 @@
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3s)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d)](https://github.com/anuraghazra/github-readme-stats)
 </details>
