@@ -35,11 +35,10 @@
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&ring=FF0000&border=000000&currStreakLabel=FF0000" />
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=bouhadi-m3d&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&ring=FF0000&border=000000&currStreakLabel=FF0000" />
     <br/>
-
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=bouhadi-m3d&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouhadi-m3d&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
-    <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+</p>
 </details>
